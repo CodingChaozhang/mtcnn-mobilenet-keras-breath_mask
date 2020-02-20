@@ -10,7 +10,7 @@
 
 ## 效果展示
 
-[!mask_demo](./data/video/3.gif)
+![mask_demo](data/video/3.gif)
 
 ## 环境
 
