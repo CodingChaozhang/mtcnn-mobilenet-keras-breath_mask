@@ -12,7 +12,7 @@
 
 
 <video id="video" controls="" preload="none">
-    <source id="mp4" src="data/video/2.mkv">
+    <source id="mp4" src="data/video/2.mp4" type="video/mp4">
 </video>
 
 
@@ -21,7 +21,7 @@
 `工欲善其事必先利其器`
 
 - **Python：** 3.7.4
-- **Tensorflow-GPU：**1.14.0
+- **Tensorflow-GPU：** 1.14.0
 - **Keras:** 2.2.4
 
 
