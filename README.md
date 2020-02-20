@@ -10,11 +10,7 @@
 
 ## 效果展示
 
-
-<video id="video" controls="" preload="none">
-    <source id="mp4" src="data/video/2.mp4" type="video/mp4">
-</video>
-
+[!mask_demo](./data/video/3.gif)
 
 ## 环境
 
