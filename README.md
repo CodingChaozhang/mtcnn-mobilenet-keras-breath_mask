@@ -10,7 +10,11 @@
 
 ## 效果展示
 
-![mask_sample](data/video/2.mkv)
+
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="data/video/2.mkv">
+</video>
+
 
 ## 环境
 
